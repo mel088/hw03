@@ -6,7 +6,7 @@ I am apolitical so I wrote satirical comments.
 
 Here is an image of my favorite thread:
 ![An image of my favorite thread](https://github.com/mel088/hw03/blob/main/Thread_Image.png)
-This is my favorite thread because the comments are funny to me. One comment is mocking Trump calling him "Orange Man" while the other is pretty violent! My comment just says you should vote for trump because he has a big asset.
+This is my favorite thread because the comments are funny to me. One comment is mocking Trump calling him "Orange Man" while the other is kind of violent. My comment just says you should vote for trump because he has a big asset.
 
 Here is the output of my `<bot_counter.py>`.
 ```
