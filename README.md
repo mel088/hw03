@@ -20,9 +20,10 @@ len(valid_replies)= 590
 valid_comments= 664
 ========================================
 ```
-## 26/20
+## 28/20
 * 12 points - Successfully completed tasks 0-5.
 * 2 points - Uploaded Github Repo.
+* 2 points - Getting at least 100 comments posted.
 * 1 point - Have your bot upvote any comment mentioning your favorite candidate.
 * 1 point - Have your bot upvote any submission mentioning your favorite candidate.
 * 0-1 points - Make your bot reply to highly upvoted comments before replying to lower upvoted comments. *I'm not sure if I got this to work. I tried sorting comments by their score, but had trouble seeing if it was working or not since most of the comments are 1 point.*
