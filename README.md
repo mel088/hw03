@@ -10,15 +10,17 @@ This is my favorite thread because the comments are funny to me. One comment is 
 
 Here is the output of my `<bot_counter.py>`.
 ```
+(base) Melanies-MacBook:hw3 melaniewilliamsmac$ /usr/local/bin/python3 /Users/melaniewilliamsmac/Documents/GitHub/mel088.github.io/.vscode/hw3/bot_counter.py
 len(comments)= 1000
-len(top_level_comments)= 74
-len(replies)= 926
-len(valid_top_level_comments)= 74
-len(not_self_replies)= 926
-len(valid_replies)= 590
+len(top_level_comments)= 19
+len(replies)= 981
+len(valid_top_level_comments)= 19
+len(not_self_replies)= 913
+len(valid_replies)= 548
 ========================================
-valid_comments= 664
+valid_comments= 567
 ========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
 ## 28/20
 * 12 points - Successfully completed tasks 0-5.
