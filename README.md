@@ -1,4 +1,5 @@
 # Reddit Propaganda Bot
+## cs40-bot8
 My Reddit bot is supporting Trump and opposing Biden.
 I am apolitical so I wrote satirical comments.
 
