@@ -23,7 +23,7 @@ valid_comments= 567
 ========================================
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
-## 28/20
+## Grade: 28/20
 * 12 points - Successfully completed tasks 0-5.
 * 2 points - Uploaded Github Repo.
 * 2 points - Posted at least 100 comments.
@@ -36,3 +36,8 @@ Extra Credit:
 * 2 points - Have your bot post new submissions to the /r/csci040 subreddit. *I'm not sure if these submissions were top submissions.*
 * 2 points - Use the textblob library to measure the sentiment of every comment/submission.
 * 4-5 points - Have the responses of your bot somehow depend on what the comment you are replying to is saying.
+
+I did not complete the following:
+* If your bot writes more than 1000 comments, you get this extra credit.
+* Create a bot army.
+* Use the GPT-2 model to generate complex political messages.
