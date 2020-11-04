@@ -27,6 +27,7 @@ NOTE: the number valid_comments is what will be used to determine your extra cre
 * 12 points - Successfully completed tasks 0-5.
 * 2 points - Uploaded Github Repo.
 * 2 points - Posted at least 100 comments.
+
 Extra Credit:
 * 1 point - Have your bot upvote any comment mentioning Trump. *I also had my bot downvote comments mentioning Biden.*
 * 1 point - Have your bot upvote any submission mentioning Trump. *I also had my bot downvote submissions mentioning Biden.*
