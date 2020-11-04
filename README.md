@@ -30,6 +30,6 @@ NOTE: the number valid_comments is what will be used to determine your extra cre
 * 1 point - Have your bot upvote any submission mentioning Trump. *I also had my bot downvote submissions mentioning Biden.*
 * 0-1 points - Make your bot reply to highly upvoted comments before replying to lower upvoted comments. *I'm not sure if I got this to work. I tried sorting comments by their score, but had trouble seeing if it was working or not since most of the comments are 1 point.*
 * 1 point - If your bot writes more than 500 comments, you get this extra credit.
-* 2 points - Have your bot post new submissions to the /r/csci040 subreddit.
+* 2 points - Have your bot post new submissions to the /r/csci040 subreddit. *I'm not sure if these submissions were top submissions.*
 * 2 points - Use the textblob library to measure the sentiment of every comment/submission.
 * 4-5 points - Have the responses of your bot somehow depend on what the comment you are replying to is saying.
